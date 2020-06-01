@@ -1,9 +1,9 @@
 header{
-background-color: blue;
+background-color: rgb(185, 105, 0);
 }
 main{
-background-color: gray
+background-color: rgb(0, 228, 178)
 }
 footer{
-background-color: red;
+background-color: rgb(250, 233, 0);
 }
